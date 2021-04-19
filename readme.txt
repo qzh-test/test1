@@ -6,5 +6,8 @@ nice~
 good job!!
 
 
-
-test test
+<<<<<<< HEAD
+测试文本
+=======
+测试文本
+>>>>>>> st1
